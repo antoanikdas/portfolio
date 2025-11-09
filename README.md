@@ -6,7 +6,7 @@
 
 ## Research Interests
 - Homogenization & Multiscale Modeling  
-- Crystal Plasticity (CPFEM)  
+- Crystal Plasticity (CPFEM and CPFFT)  
 - Phase-Field Fracture  
 - Uncertainty Quantification  
 - Scientific & Probabilistic Machine Learning
