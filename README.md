@@ -13,6 +13,17 @@
 
 ---
 
+## Technical Skills
+- **Languages:**  C++, Python, Fortran, MATLAB
+- **FEA (Open-source):** MOOSE, deal.II, FEniCS, Warp3D
+- **FEA (Commercial):** ABAQUS, ANSYS-APDL, LS-DYNA
+- **Modeling/CAD:** NX-Nastran, SolidWorks, AutoCAD
+- **Visualization:** ParaView, Matplotlib, Seaborn
+- **ML & UQ:** PyTorch, TensorFlow, PyMC
+- **Development Tools:** Git, GitHub, VS Code, Jupyter
+
+---
+
 ## Education
 **PhD, Mechanical Engineering (Applied Mechanics)** — University of Tennessee, Knoxville (UTK)  
 *Jan 2023 – Present • CGPA: 4.00/4.00*  
@@ -69,17 +80,6 @@ Advisor: **Prof. Hee Keun Cho**
 
 **Posters**
 - Anto, A. D., Dey, S., & Kiran, R. *Fracture Mechanisms in AM 17-4 Steel.* **NSF Poster Competition, IMECE 2022**, Columbus, OH.
-
----
-
-## Technical Skills
-**Languages:**  C++, Python, Fortran, MATLAB 
-**FEA (Open-source):** MOOSE, deal.II, FEniCS, Warp3D
-**FEA (Commercial):** ABAQUS, ANSYS-APDL, LS-DYNA
-**Modeling/CAD:** NX-Nastran, SolidWorks, AutoCAD
-**Visualization:** ParaView, Matplotlib, Seaborn
-**ML & UQ:** PyTorch, TensorFlow, PyMC
-**Development Tools:** Git, GitHub, VS Code, Jupyter
 
 ---
 
